@@ -10,7 +10,8 @@ export const RQSuperHeroesPage = () => {
     "super-heroes",
     fetchSuperHero,
     {
-      staleTime: 30000,
+      refetchOnMount: true,
+      refetchOnWindowFocus: true
     }
   );
 
