@@ -34,6 +34,11 @@
       "name": "Supergirl",
       "alterEgo": "Kara Denvers",
       "id": 7
+    },
+    {
+      "name": "Shazam",
+      "alterEgo": "Billy Batson",
+      "id": 8
     }
   ],
   "friends": [
