@@ -44,6 +44,26 @@
       "name": "Catwoman",
       "alterEgo": "Selina Kyle",
       "id": 9
+    },
+    {
+      "name": "Aquaman",
+      "alterEgo": "Arthur Curry",
+      "id": 10
+    },
+    {
+      "name": "Joker",
+      "alterEgo": "Arthur Fleck",
+      "id": 11
+    },
+    {
+      "name": "Cyborg",
+      "alterEgo": "Ray Fisher",
+      "id": 12
+    },
+    {
+      "name": "Martian Manhunter",
+      "alterEgo": "J'onn J'onzz",
+      "id": 13
     }
   ],
   "friends": [
